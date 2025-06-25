@@ -1,5 +1,2 @@
-새 파일 추가
+git add <filename> --> staging
 
-add
-
-commit (새 파일 추가)
